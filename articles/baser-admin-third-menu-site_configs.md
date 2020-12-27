@@ -3,7 +3,7 @@ title: "[baserCMS]管理側（admin-third）の左メニュー「サイト基本
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["baserCMS", "adminthird"]
-published: false
+published: true
 ---
 
 システム管理ユーザグループ **以外のユーザグループに属する** ユーザでログイン中に、左メニューにある「設定＞サイト基本設定」を消したいな、て思ったときのtips。
